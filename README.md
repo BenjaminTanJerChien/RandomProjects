@@ -7,7 +7,7 @@ Some random projects created for the purpose of learning Python. All the project
 - [x] Countdowntimer
 - [x] Github Profile Pic Web Scraping
 - [x] Hangman
-- [ ] Instagram Web Scaraping 
+- [ ] Instagram Web Scraping
 - [x] List of Text to Array
 - [x] Number Guessing Game
 - [x] QR Code Encoder and Decoder 
