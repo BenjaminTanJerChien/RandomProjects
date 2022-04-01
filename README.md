@@ -1,6 +1,6 @@
 # Random Projects 
 
-Some random projects created for the purpose of learning Python. All the projects here are small, single file projects. Note that some of these projects may be incomplete or even empty files.
+Some random projects created for the purpose of learning Python. Note that some of these projects may be incomplete or even be empty files.
 
 - [x] Bulk file rename 
 - [ ] Connect Four
@@ -15,4 +15,4 @@ Some random projects created for the purpose of learning Python. All the project
 - [x] Rock Paper Scissors
 - [x] Pong Game
 - [x] Weather Information
-- [ ] Wordle Clone 
+- [x] Wordle Clone 
