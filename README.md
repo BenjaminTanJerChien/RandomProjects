@@ -2,6 +2,7 @@
 
 Some random projects created for the purpose of learning Python. Note that some of these projects may be incomplete or even be empty files.
 
+- [x] TicTacToe
 - [x] Bulk file rename 
 - [ ] Connect Four
 - [x] Countdowntimer
