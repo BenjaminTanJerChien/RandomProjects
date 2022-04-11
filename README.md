@@ -17,3 +17,4 @@ Some random projects created for the purpose of learning Python. Note that some 
 - [x] Pong Game
 - [x] Weather Information
 - [x] Wordle Clone 
+- [x] Is a prime number
