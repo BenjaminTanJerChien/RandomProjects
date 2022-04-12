@@ -1,4 +1,6 @@
+@echo off 
+title Push to git shortcut
 git add .
-git commit -m "change"
+git commit -m "Added shortcut"
 git push origin master
 pause 
